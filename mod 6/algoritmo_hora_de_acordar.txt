@@ -1,0 +1,78 @@
+INICIO
+1 - Abro os olhos
+2 - Pego o celular para desligar o despertador
+3 - Desligo o despertador
+4 - Coloco o celular novamente na cabeceira
+5 - Levanto da cama
+6 - Caminho até a porta do banheiro
+7 - Abro a porta do banheiro
+8 - Caminho até a pia do banheiro
+9 - Abro o armário para pegar a escova e a pasta de dente
+10 - Pego a escova de dentes
+11 - Pego a pasta de dente
+12 - Retiro a tampa da pasta de dente
+13 - Coloco pasta de dente na escova
+14 - Coloco a tampa na pasta de dente
+15 - Guardo a pasta de dente no armário
+16 - Fecho o armário
+17 - Inicio a escovação
+18 - Se finalizou a escovação
+	1 - Abre a torneira da pia
+	2 - Pega água com a mão
+	3 - Coloca a água na boca
+	4 - Realiza o bochecho para enxaguar a boca
+	5 - Cospe a água na pia
+	6 - Se ainda não enxaguou totalmente
+		1 - Pega água com a mão
+		2 - Coloca a água na boca
+		3 - Realiza o bochecho para enxaguar a boca
+		4 - Cospe a água na pia
+	7 - Se enxaguou totalmente
+		1 - Lava a escova embaixo da água da torneira
+		2 - Fecha a torneira
+		3 - Abre o armário
+		4 - Guarda a escova
+		5 - Pega o sabão para lavar o rosto
+		6 - Fecha o armário
+		7 - Abre a torneira
+		8 - Molha o rosto
+		9 - Passa o sabão nas mãos
+		10 - Esfrega as mãos com sabão no rosto
+		11 - Coloca as mãos embaixo da torneira para retirar o sabão
+		12 - Joga agua no rosto para retirar todo o sabão
+		13 - Se ainda não saiu todo o sabão
+			1 - Joga agua no rosto para retirar todo o sabão
+		14 - Se retirou todo o sabão
+			1 - Fecha a torneira
+			2 - Abre o armário
+			3 - Guarda o sabão de rosto
+			4 - Fecha o armário
+			5 - Pega a toalha de rosto
+			6 - Enxuga o rosto
+			7 - Caminha para fora do banheiro
+			8 - Fecha a porta
+			9 - Caminha para o guarda-roupas
+			10 - Abre as portas do guarda-roupas
+			11 - Pega a roupa que será utilizada
+			12 - Retiro o pijama
+			13 - Coloco a roupa
+			14 - Guardo o pijama
+			15 - Fecho as portas do guarda-roupas
+			16 - Caminho até a cabeceira da cama
+			17 - Pego minha carteira, celular e chaves na cebeceira
+			18 - Guardo ambos no bolso
+			19 - Pego minha mochila ao lado da cabeceira
+			20 - Coloco a mochila nas costas
+			21 - Vou até o quintal
+			22 - Pego meu tênis
+			23 - Sento no banquinho do quintal
+			24 - Calço e amarro o tênis
+			25 - Me levanto do banquinho
+			26 - Caminho até o portão de saída
+			27 - Pego a chave do meu bolso
+			28 - Destranco o portão com a chave
+			29 - Abro o portão
+			30 - Caminho para fora
+			31 - Fecho e tranco o portão
+			32 - Saio para trabalhar
+FIM
