@@ -1,5 +1,10 @@
+/**
+ * @author vitor.dev
+ */
 public class Main {
     public static void main(String[] args) {
+
+        //Instancia da classe Computador
         Computador computador = new Computador();
 
         computador.setPlacaMae("B550M Aorus Elite");

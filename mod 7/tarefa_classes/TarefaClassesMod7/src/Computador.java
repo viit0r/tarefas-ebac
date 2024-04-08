@@ -1,3 +1,6 @@
+/**
+ * @author vitor.dev
+ */
 public class Computador {
 
     private String placaMae;
@@ -118,6 +121,12 @@ public class Computador {
         this.qtdeFans = qtdeFans;
     }
 
+    /**
+     * Método sobrescrito do padrão toString() do Java.
+     *
+     * @since 1.0
+     * @return Retorna um texto formatado com as informações do computador.
+     */
     @Override
     public String toString() {
         return "Computador:\n" +
