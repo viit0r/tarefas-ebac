@@ -12,7 +12,13 @@ public class Main {
             notas.add(notaDigitada);
         }
 
+
+
         int media = 0;
+
+        Integer teste = 0;
+
+        teste = media;
 
         for (int nota : notas) {
             media += nota;
