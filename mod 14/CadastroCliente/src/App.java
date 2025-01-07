@@ -17,7 +17,7 @@ public class App {
         String dados;
 
         String opcao = JOptionPane.showInputDialog(null,
-                "Digite 1 para cadastro, 2 para consultar, 3 para exclusão e 5 para sair.",
+                "Digite 1 para cadastro, 2 para consultar, 3 para exclusão e 4 para sair.",
                 "",
                 JOptionPane.INFORMATION_MESSAGE);
         
@@ -27,7 +27,7 @@ public class App {
             }
 
             opcao = JOptionPane.showInputDialog(null,
-                    "Digite 1 para cadastro, 2 para consultar, 3 para exclusão e 5 para sair.",
+                    "Digite 1 para cadastro, 2 para consultar, 3 para exclusão e 4 para sair.",
                     "",
                     JOptionPane.INFORMATION_MESSAGE);
         }
